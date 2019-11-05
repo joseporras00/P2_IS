@@ -5,7 +5,7 @@
 **Puntos estimado**: 4
 **Iteración**: 1
 
-**Responsable**:Administrador
+**Responsable**:Jose
 
 #### Descripción
 Como administrador quiero ver una lista de todos mis clientes para después operar con ellos
