@@ -5,7 +5,7 @@
 **Puntos estimado**: 3
 **Iteración**: 1
 
-**Responsable**: Administrador
+**Responsable**: Manuel
 
 #### Descripción
 Como administrador quiero ver mi agenda del dia para consultar mis citas y pacientes
