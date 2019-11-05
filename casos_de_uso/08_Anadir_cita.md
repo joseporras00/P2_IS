@@ -1,8 +1,8 @@
 ## Añadir cita
-**ID**: 04
+**ID**: 08
 **Descripción**: El administrador quiere añadir una cita de un usuario registrado.
 
-**Actor principal**: Administrador
+**Actor principal**: Secretario
 **Actor secundario**: Usuario
 
 **Precondiciones**:
@@ -18,4 +18,4 @@
 * Ninguna.
 
 **Flujo alternativo**:
-* 3.a Si algún campo está de forma incorrecta tras la confirmación, se muestra un mensaje de error.
+* 3.a Si algún campo está de forma incorrecta tras la confirmación o la cita ya está cogida, se muestra un mensaje de error.
