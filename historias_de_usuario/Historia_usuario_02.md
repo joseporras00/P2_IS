@@ -5,7 +5,7 @@
 **Puntos estimado**: 3
 **Iteración**: 1
 
-**Responsable**: Administrador
+**Responsable**: Juan
 
 #### Descripción
 Como administrador quiero añadir nuevos clientes con el paso del tiempo
