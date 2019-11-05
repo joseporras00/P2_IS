@@ -5,7 +5,7 @@
 **Puntos estimado**: 4
 **Iteración**: 1
 
-**Responsable**: Administrador
+**Responsable**: Manuel
 
 #### Descripción
 Como administrador quiero poder cambiar la información de mis pacientes
