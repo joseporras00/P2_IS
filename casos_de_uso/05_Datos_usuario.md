@@ -1,5 +1,5 @@
 ## Datos de usuario
-**ID**: 04
+**ID**: 05
 **Descripción**: El administrador quiere consultar el perfil de un usuario registrado.
 
 **Actor principal**: Secretario
