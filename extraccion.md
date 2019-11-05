@@ -24,6 +24,7 @@
 1. Ver historial
 1. Editar historial
 1. Ver tratamiento
+1. Añadir tratamiento
 1. Editar tratamiento
 1. Borrar tratamiento
 1. Buscar usuario
