@@ -5,7 +5,7 @@
 **Puntos estimado**: 4
 **Iteración**: 1
 
-**Responsable**: Administrador
+**Responsable**: Juan
 
 #### Descripción
 Como administrador quiero localizar ver toda la informacion de un paciente
