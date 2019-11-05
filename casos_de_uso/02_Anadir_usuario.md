@@ -3,7 +3,7 @@
 **Descripción**: Añadimos a un nuevo paciente con toda su 
 información.
 
-**Actor principal**: Administrador
+**Actor principal**: Secretario
 **Actor secundario**: Usuario
 
 **Precondiciones**:
