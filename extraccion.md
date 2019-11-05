@@ -32,6 +32,7 @@
 1. Editar usuario
 1. Borrar usuario
 1. Añadir cita a un usuario
+1. Editar cita.
 1. Eliminar cita de un usuario
 
 ### Requisitos no funcionales
