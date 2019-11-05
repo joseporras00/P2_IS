@@ -1,5 +1,5 @@
 ## Editar usuario
-**ID**: 05
+**ID**: 06
 **Descripción**: El administrador quiere editar el perfil de un usuario registrado.
 
 **Actor principal**: Secretario
