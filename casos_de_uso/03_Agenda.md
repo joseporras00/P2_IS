@@ -2,7 +2,7 @@
 **ID**: 03
 **Descripción**: Se muestran todas las citas del día actual.
 
-**Actor principal**: Administrador
+**Actor principal**: Secretario
 **Actor secundario**: Usuarios con cita en el dia actual.
 
 **Precondiciones**:
