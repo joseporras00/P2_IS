@@ -5,10 +5,10 @@
 **Puntos estimado**: 3
 **Iteración**: 1
 
-**Responsable**: Administrador
+**Responsable**: Juan
 
 #### Descripción
 Como administrador quiero añadir citas a mis clientes
 
 #### Validación
-* Deben añadirse las citas a cualquier usuario y en cualquier fecha que lo desee
+* Deben añadirse las citas a cualquier usuario y en cualquier fecha que lo desee, si está disponible.
