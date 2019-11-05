@@ -2,7 +2,7 @@
 **ID**: 09
 **Descripción**: El administrador quiere borrar una cita de un usuario registrado.
 
-**Actor principal**: Administrador
+**Actor principal**: Secretario
 **Actor secundario**: Usuario
 
 **Precondiciones**:
