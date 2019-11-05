@@ -21,6 +21,11 @@
 1. Mostrar usuarios por orden alfabético
 1. Añadir usuario
 1. Mostrar las citas de los usuarios por orden de fecha y hora (Agenda)
+1. Ver historial
+1. Editar historial
+1. Ver tratamiento
+1. Editar tratamiento
+1. Borrar tratamiento
 1. Buscar usuario
 1. Mostrar usuario
 1. Editar usuario
