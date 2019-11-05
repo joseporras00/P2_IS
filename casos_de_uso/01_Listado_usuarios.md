@@ -2,7 +2,7 @@
 **ID**: 01
 **Descripción**: Se muestran todos los clientes ordenados alfabéticamente.
 
-**Actor principal**: Administrador
+**Actor principal**: Secretario
 **Actor secundario**: Todos los usuarios
 
 **Precondiciones**:
