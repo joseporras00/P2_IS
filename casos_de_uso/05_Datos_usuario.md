@@ -2,7 +2,7 @@
 **ID**: 04
 **Descripción**: El administrador quiere consultar el perfil de un usuario registrado.
 
-**Actor principal**: Administrador
+**Actor principal**: Secretario
 **Actor secundario**: Usuario
 
 **Precondiciones**:
