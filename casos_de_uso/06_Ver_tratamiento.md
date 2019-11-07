@@ -9,9 +9,9 @@
 * Ninguna
 
 **Flujo principal**:
-1. El administrador quiere ver el tratamiento de un paciente.
-1. El administrador accede a la función desde el usuario.
-1. El administrador ve su tratamiento actual.
+1. El secretario quiere ver el tratamiento de un paciente.
+1. El secretario accede a la función desde el usuario.
+1. El secretario ve su tratamiento actual.
 
 **Postcondiciones**: 
 * Ninguna.
