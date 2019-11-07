@@ -9,8 +9,8 @@
 * Ninguna
 
 **Flujo principal**:
-1. El administrador quiere ver todas las citas que tiene en el día actual.
-1. El administrador accede a la función en el menú principal.
+1. El secretario quiere ver todas las citas que tiene en el día actual.
+1. El secretario accede a la función en el menú principal.
 1. El sistema muestra un listado con las citas del día ordenadas por la hora de la cita.
 
 **Postcondiciones**:
