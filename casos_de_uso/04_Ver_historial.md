@@ -9,8 +9,8 @@
 * Ninguna
 
 **Flujo principal**:
-1. El administrador quiere ver el historial de un paciente.
-1. El administrador accede a la función desde el usuario.
+1. El secretario quiere ver el historial de un paciente.
+1. El secretario accede a la función desde el usuario.
 1. El sistema muestra un listado de todo su historial anterior.
 
 **Postcondiciones**: 
