@@ -8,7 +8,7 @@
 **Responsable**: Manuel
 
 #### Descripción
-Como administrador quiero ver mi agenda del dia para consultar mis citas y pacientes
+Como secretario quiero ver mi agenda del dia para consultar mis citas y pacientes
 
 #### Validación
 * Deben poder abrir la función desde el menú principal
