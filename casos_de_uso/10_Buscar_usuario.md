@@ -9,9 +9,9 @@
 * Ninguna
 
 **Flujo principal**:
-1. El administrador quiere ver los datos de un usuario registrado anteriormente.
-1. El administrador accede al listado de usuarios en el menú principal.
-1. El administrador introduce su nombre y apellidos en el cuadro de búsqueda.
+1. El secretario quiere ver los datos de un usuario registrado anteriormente.
+1. El secretario accede al listado de usuarios en el menú principal.
+1. El secretario introduce su nombre y apellidos en el cuadro de búsqueda.
 1. El sistema muestra los datos del usuario y las distintas posibilidades que puede realizar relacionadas con el usuario.
 
 **Postcondiciones**: 
