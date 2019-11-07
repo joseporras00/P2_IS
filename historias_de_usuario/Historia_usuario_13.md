@@ -8,7 +8,7 @@
 **Responsable**: Jose
 
 #### Descripción
-Como administrador quiero poder borrar a mis pacientes
+Como secretario quiero poder borrar a mis pacientes
 
 #### Validación
 * Debe poder eliminarse cualquier usuario
