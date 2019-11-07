@@ -8,7 +8,7 @@
 **Responsable**: Juan
 
 #### Descripción
-Como administrador quiero añadir nuevos clientes con el paso del tiempo
+Como secretario quiero añadir nuevos clientes con el paso del tiempo
 
 #### Validación
 * Deben poder añadir un nuevo usuario desde el menú principal y desde la lista de clientes
