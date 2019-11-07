@@ -1,6 +1,6 @@
 ## Ver tratamiento
 **ID**: 06
-**Descripción**: Se muestra el tratamiento actual del paciente.
+**Descripción**: Se incluye el tratamiento actual del paciente.
 
 **Actor principal**: Secretario
 **Actor secundario**: Todos los usuarios
@@ -9,12 +9,12 @@
 * Ninguna
 
 **Flujo principal**:
-1. El administrador quiere ver el tratamiento de un paciente.
+1. El administrador quiere añadir el tratamiento de un paciente.
 1. El administrador accede a la función desde el usuario.
-1. El sistema muestra su tratamiento.
+1. El administrador incluye.
 
 **Postcondiciones**: 
 * Ninguna.
 
 **Flujo alternativo**:
-* 3.a Si aún no tiene tratamiento asignado, se muestra un mensaje de error.
+* 3.a Si ya tiene tratamiento asignado, se muestra un mensaje de error.
