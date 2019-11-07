@@ -1,5 +1,5 @@
 ## Borrar cita
-**ID**: 09
+**ID**: 16
 **Descripción**: El administrador quiere borrar una cita de un usuario registrado.
 
 **Actor principal**: Secretario
