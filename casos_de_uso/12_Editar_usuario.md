@@ -1,6 +1,6 @@
 ## Editar usuario
 **ID**: 12
-**Descripción**: El administrador quiere editar el perfil de un usuario registrado.
+**Descripción**: El secretario quiere editar el perfil de un usuario registrado.
 
 **Actor principal**: Secretario
 **Actor secundario**: Usuario
@@ -9,9 +9,9 @@
 * Haber accedido al perfil del paciente.
 
 **Flujo principal**:
-1. El administrador quiere editar los datos de un usuario registrado anteriormente.
+1. El secretario quiere editar los datos de un usuario registrado anteriormente.
 1. El sistema muestra los datos del usuario y las distintas posibilidades que puede realizar relacionadas con el usuario.
-1. El administrador pulsa el botón de editar usuario, cambia los campos que necesite y lo confirma.
+1. El secretario pulsa el botón de editar usuario, cambia los campos que necesite y lo confirma.
 1. El sistema muestra los datos editados del usuario.
 
 **Postcondiciones**: 
