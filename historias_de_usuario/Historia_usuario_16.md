@@ -8,7 +8,7 @@
 **Responsable**: Manuel
 
 #### Descripción
-Como administrador quiero poder borrar las citas de mis clientes en caso de algún cambio o que ya haya pasado el plazo
+Como secretario quiero poder borrar las citas de mis clientes en caso de algún cambio o que ya haya pasado el plazo
 
 #### Validación
 * Debe poder eliminarse cualquier cita siempre que se desee y se confirme.
