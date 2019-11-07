@@ -12,4 +12,4 @@ Como secretario quiero poder borrar a mis pacientes
 
 #### Validación
 * Debe poder eliminarse cualquier usuario
-* DEbe confirmar
+* Debe confirmar
