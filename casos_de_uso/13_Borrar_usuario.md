@@ -1,5 +1,5 @@
 ## Borrar usuario
-**ID**: 07
+**ID**: 13
 **Descripción**: El administrador quiere eliminar el perfil de un usuario registrado.
 
 **Actor principal**: Administrador
