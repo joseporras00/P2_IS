@@ -1,5 +1,5 @@
 ## Buscar usuario
-**ID**: 04
+**ID**: 10
 **Descripción**: El administrador quiere buscar el perfil de un usuario registrado.
 
 **Actor principal**: Secretario
