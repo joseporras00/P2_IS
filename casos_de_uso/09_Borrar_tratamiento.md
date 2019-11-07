@@ -9,9 +9,9 @@
 * Ninguna
 
 **Flujo principal**:
-1. El administrador quiere borrar el tratamiento de un paciente.
-1. El administrador accede a la función desde el usuario.
-1. El administrador borra su tratamiento y se añade al historial.
+1. El secretario quiere borrar el tratamiento de un paciente.
+1. El secretario accede a la función desde el usuario.
+1. El secretario borra su tratamiento y se añade al historial.
 
 **Postcondiciones**: 
 * El tratamiento queda guardado en el historial del paciente.
