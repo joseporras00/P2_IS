@@ -8,7 +8,7 @@
 **Responsable**:Jose
 
 #### Descripción
-Como administrador quiero ver una lista de todos mis clientes para después operar con ellos
+Como secretario quiero ver una lista de todos mis clientes para después operar con ellos
 
 #### Validación
 * Deben verse todos los usuarios
