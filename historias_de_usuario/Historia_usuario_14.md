@@ -8,7 +8,7 @@
 **Responsable**: Juan
 
 #### Descripción
-Como administrador quiero añadir citas a mis clientes
+Como secretario quiero añadir citas a mis clientes
 
 #### Validación
 * Deben añadirse las citas a cualquier usuario y en cualquier fecha que lo desee, si está disponible.
