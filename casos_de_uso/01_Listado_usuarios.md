@@ -9,8 +9,8 @@
 * Ninguna
 
 **Flujo principal**:
-1. El administrador quiere ver a todos sus pacientes.
-1. El administrador accede a la función en el menú principal.
+1. El secretario quiere ver a todos sus pacientes.
+1. El secretario accede a la función en el menú principal.
 1. El sistema muestra un listado de todos los usuarios ordenados alfabéticamente.
 
 **Postcondiciones**: 
