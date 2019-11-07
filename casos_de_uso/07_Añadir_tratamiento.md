@@ -1,5 +1,5 @@
 ## Añadir tratamiento
-**ID**: 06
+**ID**: 07
 **Descripción**: Se incluye el tratamiento actual del paciente.
 
 **Actor principal**: Secretario
