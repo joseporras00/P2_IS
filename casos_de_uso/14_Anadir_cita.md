@@ -1,6 +1,6 @@
 ## Añadir cita
 **ID**: 14
-**Descripción**: El administrador quiere añadir una cita de un usuario registrado.
+**Descripción**: El secretario quiere añadir una cita de un usuario registrado.
 
 **Actor principal**: Secretario
 **Actor secundario**: Usuario
@@ -9,9 +9,9 @@
 * Haber accedido al perfil del paciente.
 
 **Flujo principal**:
-1. El administrador quiere ver los datos de un usuario registrado anteriormente.
+1. El secretario quiere ver los datos de un usuario registrado anteriormente.
 1. El sistema muestra los datos del usuario y las distintas posibilidades que puede realizar relacionadas con el usuario.
-1. El administrador pulsa el botón añadir cita, rellena los campos necesarios y confirma.
+1. El secretario pulsa el botón añadir cita, rellena los campos necesarios y confirma.
 1. El sistema guarda la cita y pasa al perfil del usuario.
 
 **Postcondiciones**: 
