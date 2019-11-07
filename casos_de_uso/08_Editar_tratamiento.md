@@ -9,8 +9,8 @@
 * Ninguna
 
 **Flujo principal**:
-1. El administrador quiere cambiar el tratamiento de un paciente.
-1. El administrador accede a la función desde el usuario.
+1. El secretario quiere cambiar el tratamiento de un paciente.
+1. El secretario accede a la función desde el usuario.
 1. El sistema muestra un listado de sus tratamientos actuales.
 
 **Postcondiciones**: 
