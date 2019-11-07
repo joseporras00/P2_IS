@@ -1,4 +1,4 @@
-## Ver tratamiento
+## Añadir tratamiento
 **ID**: 06
 **Descripción**: Se incluye el tratamiento actual del paciente.
 
