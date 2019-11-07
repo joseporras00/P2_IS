@@ -1,6 +1,6 @@
 ## Mostrar usuario
 **ID**: 11
-**Descripción**: El administrador quiere consultar el perfil de un usuario registrado.
+**Descripción**: El secretario quiere consultar el perfil de un usuario registrado.
 
 **Actor principal**: Secretario
 **Actor secundario**: Usuario
