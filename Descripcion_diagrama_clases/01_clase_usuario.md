@@ -3,7 +3,7 @@ Esta clase contiene las funciones del usuario entre ellas buscar, mostrar, añad
 
 #### Datos
 * Nombre (cadena): Nombre del paciente (1 a 50).
-* Teléfono (número): Número de teléfono del paciente (9 a 12).
+* Teléfono (cadena): Número de teléfono del paciente (9 a 12).
 * Dirección (cadena): Dirección completa del paciente (1 a 100).
 * Edad (número): Edad del paciente.
 
